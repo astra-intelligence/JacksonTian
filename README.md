@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JacksonTian&&show_icons=true&theme=github" />
+<img align="right" src="https://167.233.135.161:8083/card?user=JacksonTian" />
 
 ### Hi there 👋
 
